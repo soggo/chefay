@@ -8,6 +8,14 @@ body{
     background-color: azure;
 }
 
+section.dark{
+    background-image:url(/images/Back.jpg) ;
+    color: beige;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
 .container-fluid.clients{
     display: flex;
     width: 100%;
