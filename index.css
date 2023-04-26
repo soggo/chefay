@@ -9,11 +9,12 @@ body{
 }
 
 section.dark{
-    background-image:url(/images/Back.jpg) ;
+        background-image:url(/images/Back.jpg) ;
     color: beige;
     background-repeat: no-repeat;
-    background-size: cover;
-    
+    background-size: cover; 
+    /* background-image: linear-gradient(to bottom, #232323, #0d0d0d);
+    color: beige;  */
 }
 
 .container-fluid.clients{
@@ -115,13 +116,12 @@ padding-bottom: 3%
 }
 
 
-section.dark{
+/* section.dark{
     background-image:url(/images/Back.jpg) ;
     color: beige;
     background-repeat: no-repeat;
-    background-size: cover;
-    
-}
+    background-size: cover;   
+} */
 
 .container-fluid.gourmet{
     margin-top: 3%;
