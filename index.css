@@ -9,7 +9,7 @@ body{
 }
 
 section.dark{
-        background-image:url(/images/Back.jpg) ;
+    background-image:url(/images/Back.jpg) ;
     color: beige;
     background-repeat: no-repeat;
     background-size: cover; 
